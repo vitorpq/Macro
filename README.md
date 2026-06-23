@@ -4,4 +4,5 @@ O objetivo é reunir um número significativo de indicadores mensais par apoiar 
 
 Esta base contém dados macroeconômicos, inclsuive  dados de juros americanos, moedas, commodities e indices de mercados internacionais.
 O objetivo é alimentar modelos de inteligência artificial voltados à seleção de portfolios resilientes.
-
+---
+*Este README foi atualizado automaticamente em 2026-06-23 09:23:59.*
